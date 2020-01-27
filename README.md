@@ -45,7 +45,7 @@ Used this knowledge to make a couple tables for homework.
 ## CSS Lecture:
 Slacked out in resources but it can mostly be found on ...  
 https://www.w3schools.com/css/default.asp  
-This is a pretty comprehensive guide but anything you can't find you should just google.  
+This is a pretty comprehensive guide but anything you can't find you should google for more information.  
 
 When connecting HTML and CSS, in the head of html put..  
 <link rel=“stylesheet” type=“text/css” href=“style.css”/>
